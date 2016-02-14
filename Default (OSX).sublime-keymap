@@ -4,5 +4,6 @@
 	{ "keys": ["super+alt+down"], "command": "duplicate_line" },
 	{ "keys": ["super+alt+up"], "command": "duplicate_line" },
 	{ "keys": ["alt+up"], "command": "swap_line_up" },
-	{ "keys": ["alt+down"], "command": "swap_line_down" }
+	{ "keys": ["alt+down"], "command": "swap_line_down" },
+	{ "keys": ["shift+enter"], "command": "run_macro_file", "args": {"file": "Packages/Default/Add Line.sublime-macro"} }
 ]
