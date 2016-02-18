@@ -3,5 +3,7 @@
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+    "shift_tab_unindent": true,
+    "scroll_past_end": true
 }
