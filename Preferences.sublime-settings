@@ -1,9 +1,9 @@
 {
-	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-    "shift_tab_unindent": true,
-    "scroll_past_end": true
+	"scroll_past_end": true,
+	"shift_tab_unindent": true
 }
