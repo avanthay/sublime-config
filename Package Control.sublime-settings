@@ -6,8 +6,16 @@
 	"installed_packages":
 	[
 		"Dictionaries",
-		"Markdown Extended",
+		"F#",
 		"Markdown Preview",
-		"Monokai Extended"
+		"Monokai Extended",
+		"Package Control",
+		"Pandoc",
+		"ShowEncoding",
+		"SublimeHighlight"
+	],
+	"repositories":
+	[
+		"https://github.com/n1k0/SublimeHighlight/tree/python3"
 	]
 }
